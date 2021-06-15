@@ -1,5 +1,12 @@
 # NABEGHEHA.COM
 
+# First        : pip install selenium
+
+# Github       : https://github.com/NABEGHEHACOM
+# Youtube      : https://youtu.be/XB-f4r7MpqM
+# Social Media : https://nabegheha.com/socials
+
+
 from time import sleep
 from selenium import webdriver
 
