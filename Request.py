@@ -68,7 +68,7 @@ class Bot():
             # Click on REQUESTED Button
             self.driver.find_element_by_xpath(
                 '/html/body/div[1]/section/main/div/header/section/div[1]/div[1]/div/div/button').click()
-            sleep(2)
+            sleep(60)
             # Click on UNFOLLOW Button
             self.driver.find_element_by_xpath(
                 '/html/body/div[4]/div/div/div/div[3]/button[1]').click()    
