@@ -12,7 +12,7 @@ pip install selenium
 <br />
 <p align="center">
     <a href="https://youtu.be/XB-f4r7MpqM">
-        <img src="https://nabegheha.com/img/instagrambot.jpg" alt="AmirHosein Moallemi">
+        <img src="https://raw.githubusercontent.com/NABEGHEHACOM/InstagramBot/refs/heads/main/instagrambot.jpg" alt="AmirHosein Moallemi">
     </a>
 </p>
 
